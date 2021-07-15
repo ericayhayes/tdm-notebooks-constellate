@@ -1,5 +1,5 @@
-# Constellate Collaborative Notebooks and Lessons
-Constellate is a platform to learn and perform text analysis, build datasets, and share analytics course materials. Open the black box of text analysis with [Constellate](https://constellate.org/), from JSTOR and Portico. 
+# Constellate Collaborative Notebooks and Lessons (My new workshop using Constellate)
+Constellate is a platform to learn and perform text analysis, build datasets, and share analytics course materials. Open the black box of text analysis with [Constellate](https://constellate.org/), from JSTOR and Portico.
 
 This repository is a collection of Jupyter Notebooks that may be used by individuals for learning or teaching text analytics.  You may access them in our textbook, [Teaching Text Analysis with Constellate](https://ithaka.github.io/tdm-notebooks/book/intro.html), and also interact with a number of them from your [Constellate datasets](https://constellate.org/dataset/dashboard/).  All these Notebooks will run in the Constellate environment.  
 
@@ -7,8 +7,8 @@ Read more about Constellate below, after the nuts and bolts of cloning these not
 
 ## Local Installation
 
-You can also clone this repository and run the examples in a local Jupyter Notebook environment. 
-Please keep in mind that this project is in a beta phase and both the notebooks and client code may change frequently. 
+You can also clone this repository and run the examples in a local Jupyter Notebook environment.
+Please keep in mind that this project is in a beta phase and both the notebooks and client code may change frequently.
 If you have created your own notebooks, or used the client code in some way, we would like to hear about it. Please let us know either here via Github issues or by emailing tdm@ithaka.org.
 
 To install the client run the following.
